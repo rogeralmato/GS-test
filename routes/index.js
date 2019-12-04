@@ -1,9 +1,7 @@
 let {PythonShell} = require('python-shell');
 const express = require('express');
-const mongoose = require('mongoose');
 const path = require('path');
 const auth = require('http-auth');
-const request = require('supertest');
 const { body, validationResult } = require('express-validator');
 
 const router = express.Router();
