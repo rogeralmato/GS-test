@@ -1,0 +1,17 @@
+extends layoutListing
+
+block content
+
+  if registrations.length
+    table.listing-table.table-dark.table-striped
+      tr
+        th Input
+        th InputEncryptet
+        th CRC_Input
+      each registration in registrations
+        tr
+          td= registration.input
+          td= registration.inputEncrypted
+          td= registration.inputCRC
+  else
+    p Encara no s'han encriptat missatges
