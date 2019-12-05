@@ -36,8 +36,7 @@ Pantalla inicial:
 
 [http://localhost:3000/](http://localhost:3000/)
 <p align="center">
-  <img width="500" height="300" src="https://i.ibb.co/Rzbkn0z/Screenshot-2019-12-04-at-21-52-57.png
-">
+  <img width="500" height="300" src="https://i.ibb.co/Rzbkn0z/Screenshot-2019-12-04-at-21-52-57.png">
 </p>
 
 Si observem l'historial (segon button) observem que està buit:
