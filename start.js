@@ -1,6 +1,5 @@
 require('dotenv').config();
 const mongoose = require('mongoose');
-require('./models/Registration');
 const mysql = require('mysql');
 
 const app = require('./app');
