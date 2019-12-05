@@ -33,6 +33,11 @@ A continuació s'ha utilitzat una base de dades mysql en ***localhost***  amb le
 	- inputCRC: numeric
 Per tal de connectar-se tal com es pot veure a **start.js** l'usari és root i la psw és alma1234.
 
+Finalment per exectutar-ho:
+````
+nodemon ./start.js
+````
+
 #### Exemple d'utilització
 S'utilitza com exemple la taula de prova proporiconada com exemple en la descripció del repte. 
 Pantalla inicial:
