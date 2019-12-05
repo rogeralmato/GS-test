@@ -95,6 +95,7 @@ Finalment podem veure l'historial en format web (usr: golden, psw: spear):
 I també s'ha creat un endpoint per poder obtenir els resultats en formt JSON:
 [http://localhost:3000/registrationsJSON](http://localhost:3000/registrationsJSON)
 
+<p align="center">
   <img width="600" height="250" src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png">
 </p>
 
