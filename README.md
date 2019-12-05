@@ -42,8 +42,7 @@ Pantalla inicial:
 Si observem l'historial (segon button) observem que està buit:
 ***Remarcar que s'ha protegit l'accés a la pàgina amb usr: golden i psw: spear***
 <p align="center">
-  <img width="500" height="300" src="https://i.ibb.co/XkPSdsf/Screenshot-2019-12-04-at-21-56-43.png
-">
+  <img width="500" height="300" src="https://i.ibb.co/XkPSdsf/Screenshot-2019-12-04-at-21-56-43.png">
 </p>
 
 A continuació començarem a encryptar. La primera frase serà "Hi there!", la segona "How are you?" i la tercera "Super secret message".  També es remarca que s'hi no introduïm cap valor (deixem el textInput buit) s'avisa a l'usuari amb un missatge d'error i en cas d'haver-se encriptat bé també ho avisa. 
@@ -87,14 +86,12 @@ Finalment podem veure l'historial en format web (usr: golden, psw: spear):
 
 
 <p align="center">
-  <img width="600" height="250" src="https://i.ibb.co/BGN5fJc/Screenshot-2019-12-05-at-10-50-16.png
-">
+  <img width="600" height="250" src="https://i.ibb.co/BGN5fJc/Screenshot-2019-12-05-at-10-50-16.png">
 </p>
 
 I també s'ha creat un endpoint per poder obtenir els resultats en formt JSON:
 [http://localhost:3000/registrationsJSON](http://localhost:3000/registrationsJSON)
 
-  <img width="600" height="250" src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png
-">
+  <img width="600" height="250" src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png">
 </p>
-<a href="https://ibb.co/nsXpgsy"><img src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png" alt="Screenshot-2019-12-05-at-10-52-20" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>upload picture</a><br />
+
