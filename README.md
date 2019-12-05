@@ -7,6 +7,9 @@ Webapp que, per mitjà de una API rest en nodeJS, es comunica amb Python per pro
   - express Framework per construir la webapp amb node
   - Base de dades MYSQL 
   - PythonShell framework per executar fitxers python des de node
+  - Bootstrap pel disseny de la interfície
+  - Pug Framework pel disseny html (views)
+  
  
 *Remarcar que al principi es va utilitzar Mongodb integrat amb el framework mongoose. Al final es va descartar pels avantatges que presentava sql sobretot alhora de agafar l'ultim valor insertat i també per la senzillesa alhora de fer l'output de les dades.*
 
