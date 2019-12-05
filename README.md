@@ -98,3 +98,4 @@ I també s'ha creat un endpoint per poder obtenir els resultats en formt JSON:
   <img width="600" height="250" src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png
 ">
 </p>
+<a href="https://ibb.co/nsXpgsy"><img src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png" alt="Screenshot-2019-12-05-at-10-52-20" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>upload picture</a><br />
