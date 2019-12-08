@@ -104,3 +104,8 @@ I també s'ha creat un endpoint per poder obtenir els resultats en formt JSON:
   <img width="600" height="250" src="https://i.ibb.co/Z6Q9L6r/Screenshot-2019-12-05-at-10-52-20.png">
 </p>
 
+Per encriptar en forma de connexio api remotament, també es pot fer amb l'endpoint:
+
+http://localhost:3000/process?valorInput=How%20are%20you
+
+En aquest cas estariem encriptant *How are you* utilitzant com a shift en l'encriptació ceaser el crc8 de l'últim missatge encriptat. 
