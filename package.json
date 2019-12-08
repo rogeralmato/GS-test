@@ -1,6 +1,7 @@
 {
   "name": "goldenspear",
   "version": "1.0.0",
+  "private": true,
   "description": "GoldenSpear test for a position job in Barcelona",
   "main": "index.js",
   "scripts": {
@@ -25,5 +26,9 @@
   "devDependencies": {
     "nodemon": "^1.19.4",
     "supertest": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rogeralmato/GS-test.git"
   }
 }
