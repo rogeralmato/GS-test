@@ -1,6 +1,7 @@
 
 # GoldenSpear full-stack developer
 Webapp que, per mitjà de una API rest en nodeJS, es comunica amb Python per processar una sèrie de dades. 
+http://51.75.141.252:3000/
 
 #### Eines utilitzades
   - nodeJS
